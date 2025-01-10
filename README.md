@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DraftJsEditor
 =======
 ## Steps to Run This Project Locally
@@ -13,4 +12,3 @@
 1. Open this project in your code editor.
 2. Run the command `npm install` to install dependencies.
 3. Run the command `npm start` to start the project.
->>>>>>> ff0e6292e5a03aa1354a64ac927ef3cdb8b9f375
