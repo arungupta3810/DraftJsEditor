@@ -1,11 +1,12 @@
-Steps to run this project locally -
+## Steps to Run This Project Locally
 
-Optional Step - 
-nvm use 14.17.1 (Recommended nvm version is 14.17.1)
+### Prerequisites
+- Ensure you have Node.js installed. Recommended version is 14.17.1. You can use `nvm` to manage Node.js versions.
 
-Step 1 -
-Open this project in your code editor.
-Step 2 -
-Run command npm i
-Step 3 -
-Run command npm start
+### Optional Step
+- Run `nvm use 14.17.1` to switch to the recommended Node.js version.
+
+### Steps
+1. Open this project in your code editor.
+2. Run the command `npm install` to install dependencies.
+3. Run the command `npm start` to start the project.
